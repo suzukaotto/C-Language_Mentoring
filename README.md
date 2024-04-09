@@ -1,5 +1,5 @@
 # C-Language_Mentoring
-Obsidian으로 보세요!
+Obsidian으로 보세요!                                              <br>
 자료실     : (https://url.dyhs.kr/SMdK)[https://url.dyhs.kr/SMdK] <br>
 개인저장소 : (https://url.dyhs.kr/xisT)[https://url.dyhs.kr/xisT] <br>
 ## class date
