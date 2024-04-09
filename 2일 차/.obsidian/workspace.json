@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "bace0ef3bea52adc",
+    "type": "split",
+    "children": [
+      {
+        "id": "bef9fac35d474a20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "110abebfb8cf6ee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "실습/헤더파일 활용 문제.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53e66b27cd2967ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "326603c6a395f389",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72e16d472c3606bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "912fc6c1332bc502",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ccee51cd7b6e7116",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97cde64d2b81ddaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "671fd6db89fea2b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce50a48379c3aa1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "실습/헤더파일 활용 문제.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0401ebc6c53c37e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "실습/헤더파일 활용 문제.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5913ad76f4e0b066",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "db53aa63908e6f5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "실습/헤더파일 활용 문제.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "floating": {
+    "id": "c25239ee71ecbec9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3f02bd1a0155c94c",
+        "type": "window",
+        "children": [
+          {
+            "id": "bb32abfbe17e8e58",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "801ed7d6c8b6b42f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "실습/헤더파일 활용 문제.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1865,
+        "y": 307,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 3
+      }
+    ]
+  },
+  "active": "801ed7d6c8b6b42f",
+  "lastOpenFiles": [
+    "멘토링 자료/헤더파일.md",
+    "멘토링 계획/C언어 멘토링; 테트리스 만들기 (2일 차).md",
+    "실습/자율 활용 문제.md",
+    "실습/헤더파일 활용 문제.md",
+    "실습/헤더파일 활용 문제 심화.md",
+    "[헤더파일 활용 문제.md",
+    "실습",
+    "멘토링 자료",
+    "멘토링 계획"
+  ]
+}

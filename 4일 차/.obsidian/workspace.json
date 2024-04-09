@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "7b1c09c7137c44c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb9f7431e9f97f6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f836e6137f0acdcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "맨토링 계획/C언어 멘토링; 테트리스 만들기 (4일 차).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad0c89226ff6f18b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a480c373a3d06179",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ec84ccc14b61015",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f6081d32573dac8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ced1edf6d59427a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "37d637e2fcb28d67",
+    "type": "split",
+    "children": [
+      {
+        "id": "eda45d4eb50105d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea611d2dfaaa49d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "맨토링 계획/C언어 멘토링; 테트리스 만들기 (4일 차).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a391e53b28fbb72b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "맨토링 계획/C언어 멘토링; 테트리스 만들기 (4일 차).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2be87ef187615a1b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a63fd0fa77e77643",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "맨토링 계획/C언어 멘토링; 테트리스 만들기 (4일 차).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f836e6137f0acdcd",
+  "lastOpenFiles": [
+    "실습",
+    "맨토링 자료",
+    "맨토링 계획/C언어 멘토링; 테트리스 만들기 (4일 차).md",
+    "맨토링 계획"
+  ]
+}
